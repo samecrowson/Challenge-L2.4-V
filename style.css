@@ -1,0 +1,97 @@
+#container {
+    margin: 15px 40px;
+    padding: 20px;
+}
+
+h1 {
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+h2 {
+    letter-spacing: 4px;
+    text-align: center;
+}
+
+h3 {
+    letter-spacing: 4px;
+    color: orange;
+}
+
+h4 {
+    letter-spacing: 4px;
+}
+
+.name {
+  font-size: 40px;
+  letter-spacing: 4px;
+}
+
+.role {
+  font-size: 30px;
+  letter-spacing: 2px;
+  color: orange;
+}
+
+img {
+    
+    float: left;
+  margin-right: 30px;
+  margin-bottom: 20px;
+}
+
+hr {
+height: 1px;
+color: orange;
+background-color: orange;
+border: none;
+}
+
+.aboutme {
+  clear: both;
+  
+}
+
+ul {
+    list-style-type: none;
+}
+
+.jobrole {
+    color: orange;
+    letter-spacing: 4px;
+    
+}
+
+.contactme {
+    text-align: center;
+    margin: auto;
+    color: orange;
+    font-weight: 500;
+    letter-spacing: 4px;
+}
+
+a {
+    text-decoration: none;
+    color: orange;
+}
+
+p {
+  margin-left: 70px;
+}
+
+.jobdes {
+  margin-left: 30px;
+}
+
+.education {
+  margin-left: 30px;
+}
+
+
+
+
+
+
+
+
+
