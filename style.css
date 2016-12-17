@@ -1,90 +1,55 @@
 #container {
-    margin: 15px 40px;
+    margin: 0px 40px;
     padding: 20px;
 }
 
-h1 {
-    letter-spacing: 4px;
-    text-align: center;
-}
-
-h2 {
-    letter-spacing: 4px;
-    text-align: center;
-}
-
-h3 {
-    letter-spacing: 4px;
-    color: orange;
-}
-
-h4 {
-    letter-spacing: 4px;
-}
-
-.name {
-  font-size: 40px;
-  letter-spacing: 4px;
-}
-
-.role {
-  font-size: 30px;
-  letter-spacing: 2px;
-  color: orange;
-}
-
 img {
-    
-    float: left;
-  margin-right: 30px;
+  float: left;
+  margin-right: 20px;
   margin-bottom: 20px;
 }
 
+ul {
+  list-style-type: none;
+}
+
+li {
+ text-decoration: none; 
+}
+
+.name {
+  letter-spacing: 4px;
+  font-size: 40px;
+  color: orange;
+}
+
+.role {
+  letter-spacing: 4px;
+  font-size: 30px;
+}
+
 hr {
-height: 1px;
-color: orange;
-background-color: orange;
-border: none;
+  clear: both;
+  border: 2px solid orange;
+}
+
+h3 {
+  color: orange;
+  letter-spacing: 4px;
 }
 
 .aboutme {
-  clear: both;
-  
+  margin: 0 20px;
 }
 
-ul {
-    list-style-type: none;
-}
-
-.jobrole {
-    color: orange;
-    letter-spacing: 4px;
-    
-}
-
-.contactme {
-    text-align: center;
-    margin: auto;
-    color: orange;
-    font-weight: 500;
-    letter-spacing: 4px;
-}
-
-a {
-    text-decoration: none;
-    color: orange;
-}
-
-p {
-  margin-left: 70px;
+.jobdates {
+  margin: 0 auto;
+  text-align: center;
+  font-size: 12px;
 }
 
 .jobdes {
-  margin-left: 30px;
-}
-
-.education {
-  margin-left: 30px;
+  margin: 0 40px
 }
 
 
